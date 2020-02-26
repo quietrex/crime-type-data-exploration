@@ -10,8 +10,7 @@ This dataset is obtained from UK police website (URL: https://data.police.uk/dat
 
 With plot intro command, an overview of the dataset is produced as shown as above, 75% of the dataset is discrete columns while 16.7% of the dataset is continuous columns. 
 
-## Features in dataset
-Below is the list of features in the dataset.
+## Features in dataset - Below is the list of features in the dataset.
 ![rex](images/data-exploration-2.png)
 
 ## Bar plot for discrete variables
