@@ -1,0 +1,7 @@
+# crime-type-data-exploration
+
+## Background
+Crime is a social problem faced by many countries around the world. Other than affecting the citizens’ quality of life, criminal activities can incur large amount of cost on the country (law enforcement, maintenance of prisons, prosecution). To overcome this issue, the field of computing has made remarkable advances in using machine learning to aid crime prevention such as a recent one conducted by Ahishakive, Omulo, and Niyonzima (2017). Nonetheless, most of the studies conducted have focused primarily on predicting probability of crime occurrence without classifying the type of crime (Murad, Mustapha, and Khanahmadliravi, 2013). Moreover, valuable information such as the characteristics of the criminals or victims that can help predict crime are difficult to obtain due to ethical reasons. Therefore, the purpose of this project is to make use of the available data such as location and time to build a machine learning model that can predict the type of crime and its’ respective probability of occurring in different areas.  
+
+## Overview of dataset
+This dataset is obtained from UK police website (URL: https://data.police.uk/data/) from June 2019 to July 2019. In several areas in UK, this dataset contains all crime data recorded within the respective police database in each area. Each crime data from different area is generated separately so data from different areas are combined into one file containing 12 variables and 1141086 observations.  
